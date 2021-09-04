@@ -1,6 +1,6 @@
 # RNN-Stock-Price-Prediction
 
-# Stock Price predictin by RNN
+# Stock Price prediction by RNN
 
  [How to use Keras TimeseriesGenerator for time series data](https://www.dlology.com/blog/how-to-use-keras-timeseriesgenerator-for-time-series-data/)
 
